@@ -6,7 +6,9 @@ This book is about closing that gap. Its goal is AI literacy: readers should get
 
 The central idea, introduced in Chapter 1 and returned to throughout, is that an LLM is a very good guesser. It produces text by predicting one plausible word after another, not by looking up facts or understanding meaning. Once you understand that, many of the puzzling behaviors of these systems (confident fabrications, flattering agreement, forgetfulness) become clear.
 
-This book is not pro- or anti-AI.  It’s simply an explanation of how they work and how they fail.
+This book is not pro- or anti-AI.  It’s simply an explanation of how they work and how they fail.  
+
+AI disclosure: I produced this by first recording lectures from my ATMO 215 class from Fall of 2025 and then asking AI to convert transcripts of the class into a textbook.  I then edited the files by hand to fix errors and smooth out rough spots.  I also added some new material and deleted other sections that I decided were not germane.
 
 ## What's in this book
 
@@ -21,7 +23,7 @@ This book is not pro- or anti-AI.  It’s simply an explanation of how they work
 
 If you have any questions or comments, please email me at adessler@tamu.edu.
 
-Andrew Dessler  
+Andrew Dessler
 College Station, TX
 
 ## License
