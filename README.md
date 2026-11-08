@@ -8,7 +8,7 @@ The central idea, introduced in Chapter 1 and returned to throughout, is that an
 
 This book is not pro- or anti-AI.  It’s simply an explanation of how they work and how they fail.  
 
-AI disclosure: I produced this by first recording lectures from my ATMO 215 class from Fall of 2025 and then asking AI to convert transcripts of the class into a textbook.  I then edited the files by hand to fix errors and smooth out rough spots.  I also added some new material and deleted other sections that I decided were not germane.
+**AI disclosure**: I produced this by first recording lectures from my ATMO 215 class from Fall of 2025 and then asking AI to convert transcripts of the class into a textbook.  I then edited the files by hand to fix errors and smooth out rough spots.  I also added some new material and deleted other sections that I decided were not germane.
 
 ## What's in this book
 
