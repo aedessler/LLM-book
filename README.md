@@ -21,7 +21,7 @@ This book is not pro- or anti-AI.  It’s simply an explanation of how they work
 
 If you have any questions or comments, please email me at adessler@tamu.edu.
 
-Andrew Dessler
+Andrew Dessler  
 College Station, TX
 
 ## License
