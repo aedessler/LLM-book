@@ -6,9 +6,11 @@ This book is about closing that gap. Its goal is AI literacy: readers should get
 
 The central idea, introduced in Chapter 1 and returned to throughout, is that an LLM is a very good guesser. It produces text by predicting one plausible word after another, not by looking up facts or understanding meaning. Once you understand that, many of the puzzling behaviors of these systems (confident fabrications, flattering agreement, forgetfulness) become clear.
 
-This book is not pro- or anti-AI.  It’s simply an explanation of how they work and how they fail.  
+This book is neither pro-AI nor anti-AI. It simply explains how these systems work, what they do well, and the pitfalls of using them.
 
-**AI disclosure**: I produced this by first recording lectures from my ATMO 215 class from Fall of 2025 and then asking AI to convert transcripts of the class into a textbook.  I then edited the files by hand to fix errors and smooth out rough spots.  I also added some new material and deleted other sections that I decided were not germane.
+The book is about 14,000 words, so it is likely too short to use as a primary textbook.  But it could be used, for example, in an 2-3 week AI-literacy module.
+
+**AI disclosure**: I produced this by first recording lectures from my class in the Fall of 2025 and then asking AI to convert transcripts of the lectures into a textbook.  I then edited the files by hand to fix errors and smooth out rough spots.  I also added some new material and deleted other sections that I decided were not germane. 
 
 ## What's in this book
 
