@@ -25,7 +25,7 @@ The book is about 14,000 words, so it is likely too short to use as a primary te
 
 If you have any questions or comments, please email me at adessler@tamu.edu.
 
-Andrew Dessler
+Andrew Dessler  
 College Station, TX
 
 ## License
